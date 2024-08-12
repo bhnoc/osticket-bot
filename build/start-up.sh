@@ -8,4 +8,4 @@ cd /opt/env/live/config
 
 echo "starting bot"
 
-python /opt/env/live/app/osticket_bot.py
+python -u /opt/env/live/app/osticket_bot.py
